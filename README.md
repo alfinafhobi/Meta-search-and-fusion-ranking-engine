@@ -76,7 +76,6 @@ ENABLED_ENGINES = [
 
 Combines rankings based on position:
 
-score
 <img width="293" height="82" alt="image" src="https://github.com/user-attachments/assets/32e78591-41b9-4149-b738-c895a112333b" />
 
 	​
