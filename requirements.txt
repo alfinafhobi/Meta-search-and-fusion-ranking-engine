@@ -1,0 +1,9 @@
+streamlit
+requests
+python-dotenv
+tldextract
+pandas
+numpy
+sentence-transformers
+torch
+
