@@ -76,9 +76,8 @@ ENABLED_ENGINES = [
 
 Combines rankings based on position:
 
-<img width="293" height="82" alt="image" src="https://github.com/user-attachments/assets/32e78591-41b9-4149-b738-c895a112333b" />
+<img width="273" height="86" alt="image" src="https://github.com/user-attachments/assets/0bb862ae-4baa-4f99-949a-f3354f02d958" />
 
-	​
 Robust to noisy rankings
 
 Works well when sources disagree
